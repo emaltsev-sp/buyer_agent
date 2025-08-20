@@ -1,0 +1,13 @@
+vllm
+langchain
+langchain-openai
+langchain-anthropic
+playwright
+jupyterlab
+huggingface_hub
+langgraph
+langchain-mcp-adapters
+mcp
+aiohttp
+fastmcp
+anthropic
